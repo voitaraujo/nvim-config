@@ -21,6 +21,7 @@ rm -rf ~/.local/share/nvim
 ```
 
 # Linux / Macos (unix)
+
 git clone "https://github.com/voitaraujo/nvim-config.git" ~/.config/nvim
 
 ```
