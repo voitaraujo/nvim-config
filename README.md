@@ -26,7 +26,7 @@ git clone "https://github.com/voitaraujo/nvim-config.git" ~/.config/nvim
 
 ```
 
-Aight, you're good to go!
+Aight, you're good to go now.
 
 ## Keymaps 
 _WIP_
