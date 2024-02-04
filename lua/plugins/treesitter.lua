@@ -1,3 +1,4 @@
+---@diagnostic disable: missing-fields
 return {
 	{
 		"nvim-treesitter/nvim-treesitter",
@@ -7,7 +8,7 @@ return {
 
 			config.setup({
         auto_install = true,
-				ensure_installed = { "lua", "javascript", "zig" },
+				ensure_installed = { "lua" },
 				highlight = { enable = true },
 				indent = { enable = true },
 			})

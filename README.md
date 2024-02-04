@@ -1,1 +1,1 @@
-_There are still some rough edges, but it's a start point!_
+neovim config made from others examples.
