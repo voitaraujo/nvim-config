@@ -1,10 +1,10 @@
-#neovim config#
+# Neovim config
 
-##installation##
+## Installation
 
-> first of all, make sure you have the latest neovim version installed
+> first of all, make sure you have the latest neovim version installed.
 
-- if you're already using neovim, it is probably a good idea to clear all you previous configuration.
+- If you're already using neovim, it is probably a good idea to clear all you previous configuration.
 ```
 
 # Linux / Macos (unix)
@@ -24,7 +24,7 @@ rm -Force ~\AppData\Local\nvim-data
 
 ```
 
-- clone this repo to your neovim config dir
+- Clone this repo to your neovim config dir
 ```
 # Linux / Macos (unix)
 git clone "https://github.com/voitaraujo/nvim-config.git" ~/.config/nvim
@@ -39,5 +39,5 @@ git clone "https://github.com/voitaraujo/nvim-config.git" ~\AppData\Local\nvim
 
 Aight, you're good to go!
 
-##keymaps##
+## Keymaps 
 _WIP_
