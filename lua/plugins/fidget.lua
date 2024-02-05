@@ -1,7 +1,7 @@
 return {
 	{
 		"j-hui/fidget.nvim",
-		tag = "main",
+		tag = "v1.3.0",
 		event = { "BufEnter" },
 		config = function()
 			require("fidget").setup({
