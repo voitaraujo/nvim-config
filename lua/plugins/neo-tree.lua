@@ -132,6 +132,7 @@ return {
 				group_empty_dirs = true,
 				use_libuv_file_watcher = false,
 				window = {
+					position = "right",
 					mappings = {
 						["/"] = "fuzzy_finder",
 						["D"] = "fuzzy_finder_directory",
@@ -169,7 +170,7 @@ return {
 						["gc"] = "git_commit",
 						["gp"] = "git_push",
 						["gg"] = "git_commit_and_push",
-						["o"] = { "show_help", nowait = false, config = { title = "Order by", prefix_key = "o" } }
+						["o"] = { "show_help", nowait = false, config = { title = "Order by", prefix_key = "o" } },
 					},
 				},
 			},
